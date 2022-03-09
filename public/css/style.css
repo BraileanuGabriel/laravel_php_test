@@ -1,0 +1,80 @@
+.card{
+    background-color: transparent;
+    border-image: linear-gradient(to right, orange, green) 1;
+}
+section{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+body{   
+  background: -webkit-linear-gradient(right, #68476b 0%, #0d324d 74%);
+  background-color: #7f5a83;
+  background-image: linear-gradient(right, #68476b 0%, #0d324d 74%);
+  font-family: 'Roboto', sans-serif;
+}
+.form-select, .input-group-text, .form-control{
+    background-color: transparent;
+    color: #ffa500;
+}
+.form-select, .input-group-text, .form-control{
+    background-color: transparent;
+    color: #ffa500;
+}
+input[type="number"]:disabled{
+    background-color: transparent;
+    color: #ffa500;
+    text-align: center;
+}
+.card-header, .card-title{
+    color:white;
+}
+.form-control{
+    height: 40px;
+}
+.input-group-text{
+    color: #ffffff;
+}
+.btn-outline-secondary {
+    color: #ffa500;
+    border-color: #ffa500;
+}
+.btn-outline-secondary:hover{
+    background-color: #ffa500;
+    color: white;
+}
+#longbut{
+    width: 100%;
+    background-color: transparent;
+    color: #ffa500;
+    border-color: #ffa500;
+}
+#longbut:hover{
+    width: 100%;
+    background-color: transparent;
+    border-color: #ffa500;
+    color: white;
+}
+#fav{
+    width: 100%;
+    background-color: transparent;
+    color: #ed4d4d;
+    border-color: #ed4d4d;
+}
+#fav:hover{
+    width: 100%;
+    background-color: transparent;
+    border-color: #e81919;
+    color: #e81919;
+}
+#edit{
+    width: 100%;
+    background-color: transparent;
+    color: #ffc266;
+    border-color: #ffc266;
+}
+#edit:hover{
+    width: 100%;
+    background-color: transparent;
+    border-color: #ff9900;
+    color: #ff9900;
+}
